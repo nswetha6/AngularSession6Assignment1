@@ -12,7 +12,6 @@ export class S6componentComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-
     this.name=  'Value for variable Name';  // Session 6 : 2. Assign values to the variable in ngOnInit() 
    this.title= 'Value for variable title';
   }
